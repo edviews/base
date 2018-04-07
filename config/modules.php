@@ -148,10 +148,10 @@ return [
     */
 
     'composer' => [
-        'vendor' => 'nwidart',
+        'vendor' => 'edviews',
         'author' => [
-            'name' => 'Nicolas Widart',
-            'email' => 'n.widart@gmail.com',
+            'name' => 'Kerron Gordon',
+            'email' => 'kgpsounds.com@gmail.com',
         ],
     ],
     /*
